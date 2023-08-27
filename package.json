@@ -1,0 +1,27 @@
+{
+  "name": "code_challenge",
+  "version": "1.0.0",
+  "description": "Hi, I'm Marco Urquidi, in this oportunity I want to show you the process of my learned programation since I start this facinate world of Programation.",
+  "main": "index.js",
+  "module": "node",
+  "scripts": {
+    "test": "set NODE_OPTIONS=--experimental-vm-modules && npx jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Staroz/Code_challenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Staroz/Code_challenge/issues"
+  },
+  "homepage": "https://github.com/Staroz/Code_challenge#readme",
+  "devDependencies": {
+    "jest": "^29.6.4"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  }
+}
