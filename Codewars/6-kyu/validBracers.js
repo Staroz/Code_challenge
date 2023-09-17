@@ -28,7 +28,6 @@
     braces = braces.replace(/\(\)|\[\]|\{\}/, '')
   }
   return braces.length === 0
-
 }
 
   module.exports = validBraces;
