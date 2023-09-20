@@ -20,9 +20,9 @@ function commas(num){
     }
   return numString
 }
-console.log(commas(10000.23));
-const a =456
-console.log('23sdf5'.indexOf('.'));
+// console.log(commas(10000.23));
+// const a =456
+// console.log('23sdf5'.indexOf('.'));
   module.exports = {commas};
 /*
 LINK: https://www.codewars.com/kata/56a115cadb39a2faa000001e/train/javascript
